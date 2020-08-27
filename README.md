@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center" style="text-align: center">
 
-<!--
-**Skyost/Skyost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Header image](/images/header.png)](https://skyost.eu)
 
-Here are some ideas to get you started:
+![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=skyost.skyost&right_color=green)
+![Paris SG](https://img.shields.io/badge/psg-supporter-blue)
+![Yet Another Developer](https://img.shields.io/badge/yet%20another%20developer-yes-green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Links](/images/links.svg)
+
+[![Website](images/social/website.svg)](https://skyost.eu)
+[![Twitter](images/social/twitter.svg)](https://x.com/Skyost)
+[![Github](images/social/github.svg)](https://github.com/Skyost)
+[![Play Store](images/social/play-store.svg)](https://play.google.com/store/apps/dev?id=9192910026538664281)
+[![App Store](images/social/app-store.svg)](https://itunes.apple.com/us/developer/hugo-delaunay/id1456648264)
+[![LinkedIn](images/social/linkedin.svg)](https://www.linkedin.com/in/hugodelaunay/)
+
+![Initiatives](/images/initiatives.svg)
+
+[![Stand With Ukraine](https://img.shields.io/badge/stand_with_Ukraine-white)](https://stand-with-ukraine.pp.ua)
+[![Stand With Palestine](https://img.shields.io/badge/stand_with_Palestine-white)](https://stand-with-ukraine.pp.ua)
+
+</div>
