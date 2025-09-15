@@ -1,6 +1,6 @@
 <div align="center" style="text-align: center">
 
-[![Header image](/images/header.png)](https://skyost.eu)
+[![Header image](/images/header.svg)](https://skyost.eu)
 
 ![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=skyost.skyost&right_color=green)
 ![Paris SG](https://img.shields.io/badge/psg-supporter-blue)
@@ -17,7 +17,7 @@
 
 ![Initiatives](/images/initiatives.svg)
 
-[![Stand With Ukraine](https://img.shields.io/badge/stand_with_Ukraine-white)](https://stand-with-ukraine.pp.ua)
-[![Stand With Palestine](https://img.shields.io/badge/stand_with_Palestine-white)](https://stand-with-ukraine.pp.ua)
+[![Stand With Ukraine](https://img.shields.io/badge/stand_with_Ukraine-yellow)](https://stand-with-ukraine.pp.ua)
+[![Stand With Palestine](https://img.shields.io/badge/stand_with_Palestine-red)](https://humanappeal.org.uk/appeals/gaza-emergency-appeal)
 
 </div>
