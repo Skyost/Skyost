@@ -20,4 +20,7 @@
 [![Stand With Ukraine](https://img.shields.io/badge/stand_with_Ukraine-yellow?color=FDD835)](https://stand-with-ukraine.pp.ua)
 [![Stand With Palestine](https://img.shields.io/badge/stand_with_Palestine-red?color=F44336)](https://humanappeal.org.uk/appeals/gaza-emergency-appeal)
 
+&nbsp;
+
+![Quote](/images/quote.svg)
 </div>
