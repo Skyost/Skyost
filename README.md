@@ -1,23 +1,13 @@
-<div align="center" style="text-align: center">
+[![Header image](https://github.com/Skyost/Skyost/raw/master/images/header.png)](https://skyost.eu)
 
-[![Header image](/images/header.png)](https://skyost.eu)
-
-![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=skyost.skyost&right_color=green)
+![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=skyost.skyost)
 ![Paris SG](https://img.shields.io/badge/psg-supporter-blue)
 ![Yet Another Developer](https://img.shields.io/badge/yet%20another%20developer-yes-green)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 
-![Links](/images/links.svg)
-
-[![Website](images/social/website.svg)](https://skyost.eu)
-[![Twitter](images/social/twitter.svg)](https://x.com/Skyost)
-[![Github](images/social/github.svg)](https://github.com/Skyost)
-[![Play Store](images/social/play-store.svg)](https://play.google.com/store/apps/dev?id=9192910026538664281)
-[![App Store](images/social/app-store.svg)](https://itunes.apple.com/us/developer/hugo-delaunay/id1456648264)
-[![LinkedIn](images/social/linkedin.svg)](https://www.linkedin.com/in/hugodelaunay/)
-
-![Initiatives](/images/initiatives.svg)
-
-[![Stand With Ukraine](https://img.shields.io/badge/stand_with_Ukraine-white)](https://stand-with-ukraine.pp.ua)
-[![Stand With Palestine](https://img.shields.io/badge/stand_with_Palestine-white)](https://stand-with-ukraine.pp.ua)
-
-</div>
+<img src="https://github.com/Skyost/Skyost/raw/master/images/skyost.png" alt="Website" height="14"> <a href="https://skyost.eu">Website</a>    
+<img src="https://github.com/Skyost/Skyost/raw/master/images/twitter.svg" alt="Twitter" height="14"> <a href="https://twitter.com/Skyost">Twitter</a>    
+<img src="https://github.com/Skyost/Skyost/raw/master/images/github.svg" alt="Github" height="14"> <a href="https://github.com/Skyost">Github</a>    
+<img src="https://github.com/Skyost/Skyost/raw/master/images/play_store.svg" alt="Play Store" height="14"> <a href="https://play.google.com/store/apps/dev?id=9192910026538664281">Play Store</a>    
+<img src="https://github.com/Skyost/Skyost/raw/master/images/apple.svg" alt="App Store" height="14"> <a href="https://itunes.apple.com/us/developer/hugo-delaunay/id1456648264">App Store</a>    
+<img src="https://github.com/Skyost/Skyost/raw/master/images/linkedin.svg" alt="LinkedIn" height="14"> <a href="https://www.linkedin.com/in/hugodelaunay/">LinkedIn</a>    
