@@ -2,9 +2,9 @@
 
 [![Header image](/images/header.svg)](https://skyost.eu)
 
-![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=skyost.skyost&right_color=green)
-![Paris SG](https://img.shields.io/badge/psg-supporter-blue)
-![Yet Another Developer](https://img.shields.io/badge/yet%20another%20developer-yes-green)
+![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=skyost.skyost&right_color=%23009688)
+![Paris SG](https://img.shields.io/badge/psg-supporter-blue?color=1E88E5)
+![Yet Another Developer](https://img.shields.io/badge/yet%20another%20developer-yes-green?color=009688)
 
 ![Links](/images/links.svg)
 
@@ -17,7 +17,7 @@
 
 ![Initiatives](/images/initiatives.svg)
 
-[![Stand With Ukraine](https://img.shields.io/badge/stand_with_Ukraine-yellow)](https://stand-with-ukraine.pp.ua)
-[![Stand With Palestine](https://img.shields.io/badge/stand_with_Palestine-red)](https://humanappeal.org.uk/appeals/gaza-emergency-appeal)
+[![Stand With Ukraine](https://img.shields.io/badge/stand_with_Ukraine-yellow?color=FDD835)](https://stand-with-ukraine.pp.ua)
+[![Stand With Palestine](https://img.shields.io/badge/stand_with_Palestine-red?color=F44336)](https://humanappeal.org.uk/appeals/gaza-emergency-appeal)
 
 </div>
