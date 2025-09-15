@@ -8,12 +8,12 @@
 
 ![Links](/images/links.svg)
 
-[![Website](images/social/website.svg)](https://skyost.eu)
-[![LinkedIn](images/social/linkedin.svg)](https://www.linkedin.com/in/hugodelaunay/)
-[![Twitter](images/social/twitter.svg)](https://x.com/Skyost)
-[![Github](images/social/github.svg)](https://github.com/Skyost)
-[![App Store](images/social/app-store.svg)](https://itunes.apple.com/us/developer/hugo-delaunay/id1456648264)
-[![Play Store](images/social/play-store.svg)](https://play.google.com/store/apps/dev?id=9192910026538664281)
+[<img src="images/social/website.svg" alt="Website" width="15%">](https://skyost.eu)
+[<img src="images/social/linkedin.svg" alt="LinkedIn" width="15%">](https://www.linkedin.com/in/hugodelaunay/)
+[<img src="images/social/twitter.svg" alt="X" width="15%">](https://x.com/Skyost)
+[<img src="images/social/github.svg" alt="Github" width="15%">](https://github.com/Skyost)
+[<img src="images/social/app-store.svg" alt="App Store" width="15%">](https://itunes.apple.com/us/developer/hugo-delaunay/id1456648264)
+[<img src="images/social/play-store.svg" alt="Play Store" width="15%">](https://play.google.com/store/apps/dev?id=9192910026538664281)
 
 ![Initiatives](/images/initiatives.svg)
 
@@ -23,3 +23,5 @@
 &nbsp;
 
 ![Quote](/images/quote.svg)
+
+</div>
