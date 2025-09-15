@@ -1,13 +1,25 @@
-[![Header image](https://github.com/Skyost/Skyost/raw/master/images/header.png)](https://skyost.eu)
+<div align="center" style="text-align: center">
 
-![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=skyost.skyost)
-![Paris SG](https://img.shields.io/badge/psg-supporter-blue)
-![Yet Another Developer](https://img.shields.io/badge/yet%20another%20developer-yes-green)
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+[![Header image](/images/header.svg)](https://skyost.eu)
 
-<img src="https://github.com/Skyost/Skyost/raw/master/images/skyost.png" alt="Website" height="14"> <a href="https://skyost.eu">Website</a>    
-<img src="https://github.com/Skyost/Skyost/raw/master/images/twitter.svg" alt="Twitter" height="14"> <a href="https://twitter.com/Skyost">Twitter</a>    
-<img src="https://github.com/Skyost/Skyost/raw/master/images/github.svg" alt="Github" height="14"> <a href="https://github.com/Skyost">Github</a>    
-<img src="https://github.com/Skyost/Skyost/raw/master/images/play_store.svg" alt="Play Store" height="14"> <a href="https://play.google.com/store/apps/dev?id=9192910026538664281">Play Store</a>    
-<img src="https://github.com/Skyost/Skyost/raw/master/images/apple.svg" alt="App Store" height="14"> <a href="https://itunes.apple.com/us/developer/hugo-delaunay/id1456648264">App Store</a>    
-<img src="https://github.com/Skyost/Skyost/raw/master/images/linkedin.svg" alt="LinkedIn" height="14"> <a href="https://www.linkedin.com/in/hugodelaunay/">LinkedIn</a>    
+![Visitor badge](https://visitor-badge.laobi.icu/badge?page_id=skyost.skyost&right_color=%23009688)
+![Paris SG](https://img.shields.io/badge/psg-supporter-blue?color=1E88E5)
+![Yet Another Developer](https://img.shields.io/badge/yet%20another%20developer-yes-green?color=009688)
+
+![Links](/images/links.svg)
+
+[![Website](images/social/website.svg)](https://skyost.eu)
+[![LinkedIn](images/social/linkedin.svg)](https://www.linkedin.com/in/hugodelaunay/)
+[![Twitter](images/social/twitter.svg)](https://x.com/Skyost)
+[![Github](images/social/github.svg)](https://github.com/Skyost)
+[![App Store](images/social/app-store.svg)](https://itunes.apple.com/us/developer/hugo-delaunay/id1456648264)
+[![Play Store](images/social/play-store.svg)](https://play.google.com/store/apps/dev?id=9192910026538664281)
+
+![Initiatives](/images/initiatives.svg)
+
+[![Stand With Ukraine](https://img.shields.io/badge/stand_with_Ukraine-yellow?color=FDD835)](https://stand-with-ukraine.pp.ua)
+[![Stand With Palestine](https://img.shields.io/badge/stand_with_Palestine-red?color=F44336)](https://humanappeal.org.uk/appeals/gaza-emergency-appeal)
+
+&nbsp;
+
+![Quote](/images/quote.svg)
