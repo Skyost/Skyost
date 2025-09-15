@@ -9,11 +9,11 @@
 ![Links](/images/links.svg)
 
 [![Website](images/social/website.svg)](https://skyost.eu)
+[![LinkedIn](images/social/linkedin.svg)](https://www.linkedin.com/in/hugodelaunay/)
 [![Twitter](images/social/twitter.svg)](https://x.com/Skyost)
 [![Github](images/social/github.svg)](https://github.com/Skyost)
-[![Play Store](images/social/play-store.svg)](https://play.google.com/store/apps/dev?id=9192910026538664281)
 [![App Store](images/social/app-store.svg)](https://itunes.apple.com/us/developer/hugo-delaunay/id1456648264)
-[![LinkedIn](images/social/linkedin.svg)](https://www.linkedin.com/in/hugodelaunay/)
+[![Play Store](images/social/play-store.svg)](https://play.google.com/store/apps/dev?id=9192910026538664281)
 
 ![Initiatives](/images/initiatives.svg)
 
