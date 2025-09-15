@@ -23,4 +23,3 @@
 &nbsp;
 
 ![Quote](/images/quote.svg)
-</div>
